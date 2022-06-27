@@ -1,0 +1,5 @@
+En mi caso debo usar el mensaje con esta leyenda, ya que yo trabajo desde cmd
+
+"{\"id\":\"Sofia\",\"temp\":22}"
+
+por eso no me salio la primera vez que lo intente
